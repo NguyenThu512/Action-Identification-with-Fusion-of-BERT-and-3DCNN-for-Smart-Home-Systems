@@ -1,6 +1,6 @@
 # HMD51: a large human motion database
 
-![Illustration of HMDB51 dataset](URL or file path)
+![Illustration of HMDB51 dataset](images/HMDB_snapshot1-1024x768.png)
 - Website to the dataset: https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/
 ## Structure
 - classes.txt: contains 51 human action classes for HMDB51 dataset
