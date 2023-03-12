@@ -1,6 +1,6 @@
 # Kinetics51: a derived dataset from Kinetics400
 
-<img src="Kinetics51/images/kinetics.png" width="960" height="480" />
+<img src="images/kinetics.png" width="960" height="480" />
 
 - Website to the original dataset: https://www.deepmind.com/open-source/kinetics
 ## Structure
@@ -17,11 +17,11 @@
 - Example:
 *4jmv1XpnR90 300 30*
 
-  - **Video name**: 4jmv1XpnR90.
+  - **Video name**: 4jmv1XpnR90
 
-  - **Number of frames**: 300 frames.
+  - **Number of frames**: 300 frames
 
-  - **Label**: 30 (riding or walking with horse - index starting from 0).
+  - **Label**: 30 (riding or walking with horse - index starting from 0)
 
 #### How to get videos for this work
 - The Kinetics51 dataset is collected from YouTube, and the video name is also the ID of the YouTube link to the corresponding video.
