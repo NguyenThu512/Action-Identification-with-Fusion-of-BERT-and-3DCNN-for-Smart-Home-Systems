@@ -1,5 +1,17 @@
 # Action-Identification-with-Fusion-of-BERT-and-3DCNN-for-Smart-Home-Systems
 
+## Key features
+- A fusion of SlowFast and Bidirectional Encoder Representation from Transformer (BERT) for action identification.
+- Efficently exposing temporal relationship between video frames using BERT's Attention Mechanism.
+- Two modalities in fusing SlowFast and BERT for action identification: late-ensemble and early-ensemble.
+- Kinetics51 dataset: a derived dataset from Kinetics400.
+
+#### Late-ensemble SlowFast-BERT
+<img src="images/1.jpg">
+
+#### Early-ensemble SlowFast-BERT
+<img src="images/2.jpg">
+
 ## Datasets:
   - **HMDB51**:
     - Website to the dataset: https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/
