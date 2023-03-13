@@ -7,10 +7,10 @@
 - Kinetics51 dataset: a derived dataset from Kinetics400.
 
 #### Late-ensemble SlowFast-BERT
-<img src="images/1.jpg">
+<img src="images/FRAB_FRMB_late.png">
 
 #### Early-ensemble SlowFast-BERT
-<img src="images/2.jpg">
+<img src="images/FRAB_FRMB_late.png">
 
 ## Datasets:
   - **HMDB51**:
