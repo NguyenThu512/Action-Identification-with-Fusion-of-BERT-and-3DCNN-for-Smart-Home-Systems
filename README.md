@@ -10,7 +10,7 @@
 <img src="images/FRAB_FRMB_late.png">
 
 #### Early-ensemble SlowFast-BERT
-<img src="images/FRAB_FRMB_late.png">
+<img src="images/FRAB_FRMB_early.png">
 
 ## Datasets:
   - **HMDB51**:
